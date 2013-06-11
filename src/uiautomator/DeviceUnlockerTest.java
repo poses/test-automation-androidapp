@@ -19,6 +19,7 @@ public class DeviceUnlockerTest extends UiAutomatorTestCase {
 
     private static final String LOG_TAG = "DeviceUnlockerPseudoTest";
     private static final String SCREENLOCKKEYPAD_STRING = "ScreenLockKeypadWatcher";
+    private static final String TESTING_GIT = "ScreenLockKeypadWatcher";
 
 
     public void testScreenUnlocker() throws UiObjectNotFoundException {
